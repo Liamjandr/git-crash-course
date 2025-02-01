@@ -1,4 +1,3 @@
 Name: Liam Jan dL. de Roxas
-Section: BSCS 1B
 Program: BS Computer Science
 Address: Los Banos, Laguna
